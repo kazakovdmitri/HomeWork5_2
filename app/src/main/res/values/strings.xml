@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">HomeWork5_2</string>
+    <string name="hint_text">Enter text</string>
+    <string name="btn_save">SAVE</string>
+    <string name="Msg_save">Message has been save</string>
+    <string name="main_text">Комплексная система мониторинга здоровья. Казаков Дмитрий</string>
+    <string name="info_patient">Информация о пациенте</string>
+    <string name="save_btn">Сохранить</string>
+    <string name="pressure_btn">Показатели давления</string>
+    <string name="health_btn">Показатели здоровья</string>
+    <string name="fio_patient">ФИО пациента</string>
+    <string name="age_patient">Возраст пациента</string>
+    <string name="main_pressuretext">Показатели давления</string>
+    <string name="up_pressure">Верхнее давление</string>
+    <string name="down_pressure">Нижнее давление</string>
+    <string name="pulse">Пульс</string>
+    <string name="tachycardia">Тахикардия</string>
+    <string name="switchYes">Да</string>
+    <string name="switchNo">Нет</string>
+    <string name="date_pressure">Дата замера</string>
+    <string name="main_healthtext">Показатели здоровья</string>
+    <string name="weight">Вес пациента</string>
+    <string name="count_steps">Количество шагов за день</string>
+    <string name="error_name">Имя не может быть пустым!</string>
+    <string name="error_age">Возраст указан не верно!</string>
+    <string name="msg_save">Информация сохранена</string>
+    <string name="msg_error">Данные не верны</string>
+    <string name="msg_empty">Не все данные заполнены!</string>
+    <string name="enter_money">Ввод денег</string>
+    <string name="info_payment">Информация об оплате</string>
+    <string name="btn_ok">OK</string>
+    <string name="chkb_card">С банковской карты</string>
+    <string name="chkb_phone">С мобильного телефона</string>
+    <string name="chkb_address">Наличными по адресу</string>
+    <string name="result_card">Сумма %s будет переведена с банковской карты %s</string>
+    <string name="result_phone">Сумма %s будет переведена с мобильного телефона %s</string>
+    <string name="result_address">Сумма %s будет доставлена наличными по адресу %s</string>
+    <string name="result_empty">Укажите способ оплаты!</string>
+    <string name="empty_money">Не указана сумма!</string>
+    <string name="empty_info">Не указана инфрмация о платеже!</string>
+    <string name="show_addres">Показать адрес</string>
+    <string-array name="countries">
+        <item>Россия</item>
+        <item>Украина</item>
+        <item>Белоруссия</item>
+    </string-array>
+    <string-array name="r_cities">
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Казань</item>
+    </string-array>
+    <string-array name="u_cities">
+        <item>Киев</item>
+        <item>Одесса</item>
+        <item>Харьков</item>
+    </string-array>
+    <string-array name="b_cities">
+        <item>Минск</item>
+        <item>Гомель</item>
+        <item>Брест</item>
+    </string-array>
+    <string name="ok">OK</string>
+    <string name="date_start">Дата-время старта задачи: </string>
+    <string name="date_finish">Дата-время окончания задачи: </string>
+    <string name="error">Ошибка! Дата начала не может быть больше даты окончания!</string>
+    <string name="result">Старт: %s Окончание: %s</string>
+    <string name="msg_settings">Настройки в разработке =)</string>
+</resources>
